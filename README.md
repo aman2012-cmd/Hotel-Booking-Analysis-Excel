@@ -37,6 +37,11 @@ The dataset was explored and transformed in Microsoft Excel, and custom calculat
 - Single → 1 Adult, no children/babies
 - Family → Any other combination
 
+## 📊 Dashboard Preview
+
+Here is a snapshot of the Excel dashboard:
+<img width="1682" height="629" alt="Screenshot 2025-08-20 030653" src="https://github.com/user-attachments/assets/d77b8cd2-3c9a-4e9e-98ad-d260a8c47286" />
+
 ## 📊 Sheets in the Project
 1. hotel_booking → Raw + transformed data with custom columns.
 2. Pivot → Pivot analysis summarizing total guests and cancellations.
